@@ -377,7 +377,7 @@ layout: splash
     </div>
   </div>
 
-  <div class="categories">
+  <!-- <div class="categories">
     <h2>Categories</h2>
     <ul>
       <li>Machine Learning</li>
@@ -389,7 +389,7 @@ layout: splash
       <li>Time Series Analysis</li>
       <li>AI in Industry</li>
     </ul>
-  </div>
+  </div> -->
 
   <div class="contribute">
     <p>If you're a Data Science enthusiast and want to contribute your knowledge and ideas, feel free to get in touch! We are always looking for new authors who can share their insights and experiences in the world of Data Science and AI.</p>
