@@ -35,7 +35,7 @@ layout: single
 ---
 
 ## Publications  
-- N/A
+- Puniani, C., Kumar, T., Bendre, A., Kumar, G., & Singhi, S. (2025). B-DENSE: Branching for Dense Ensemble Network Supervision Efficiency. ICLR DELTA Workshop.
   
 ---
 
