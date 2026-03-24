@@ -21,8 +21,9 @@ permalink: /projects/
 }
 
 .project-card img {
-  width: 100%;
-  height: auto;
+  width: 250px;
+  height: 150px;
+  object-fit: cover;   /* crops nicely instead of stretching */
   border-radius: 10px;
 }
 

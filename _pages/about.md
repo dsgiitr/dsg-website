@@ -213,10 +213,9 @@ We are Data Science Group, IIT Roorkee. A student organizaton, part of the umbre
 }
 
 .member-card img {
-  width: 100%;
-  height: auto;
-  max-height: 200px;
-  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;   /* crops nicely instead of stretching */
   border-radius: 10px;
 }
 
