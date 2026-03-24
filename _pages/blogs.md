@@ -376,8 +376,8 @@ layout: splash
       <p class="excerpt">Words are more than just words—discover how word embeddings turn text into numerical representations for smarter machine learning models.</p>
     </div>
   </div>
-<!-- 
-  <div class="categories">
+
+  <!-- <div class="categories">
     <h2>Categories</h2>
     <ul>
       <li>Machine Learning</li>

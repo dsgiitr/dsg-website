@@ -14,10 +14,10 @@ main:
      #url: /members/
   - title: "Events"
     url: /events/
-  - title: "Contact"
-    url: /contact/
   - title: "Resources"
     url: /resources/
+  - title: "Contact"
+    url: /contact/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
