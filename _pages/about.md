@@ -255,6 +255,10 @@ layout: splash
   <img src="{{ site.baseurl }}/assets/images/members/y26/rishita_kandpal.jpg" alt="Rishita Kandpal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
   <h3><a href="{{ site.baseurl }}/members/kandpal">Rishita Kandpal</a></h3>
 </div>
+      <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/parth_brijpuria.jpeg" alt="Parth Brijpuria" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/parth_brijpuria">Parth Brijpuria</a></h3>
+      </div>
     </div>
   </div>
 
