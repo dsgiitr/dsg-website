@@ -104,8 +104,8 @@ layout: splash
         <img src="{{ site.baseurl }}/assets/images/members/y24/abhivansh.jpeg" alt="Abhivansh Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/abhivanshgupta">Abhivansh Gupta</a></h3>
       </div>
-      <div class="member-card">         
-      <img src="{{ site.baseurl }}/assets/images/members/y24/abhinav.png" alt="Abhinav Kumar" 
+      <div class="member-card">
+      <img src="{{ site.baseurl }}/assets/images/members/y24/abhinav.png" alt="Abhinav Kumar"
         onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/abhinavkumar">Abhinav Kumar</a></h3>
       </div>
@@ -233,9 +233,15 @@ layout: splash
         <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/vedanshSethi">Vedansh Sethi</a></h3>
       </div>
-    </div>
-  </div>
 
+      <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/chayan_aggarwal.jpg" alt="Chayan Aggarwal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/chayan_aggarwal">Chayan Aggarwal</a></h3>
+      </div>
+
+    </div>
+
+  </div>
 
   <!-- Alumni (Y22 & Earlier) -->
   <div class="year-section">
