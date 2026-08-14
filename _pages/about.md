@@ -246,6 +246,10 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/kavish">Kavish Grover</a></h3>
       </div>
     </div>
+    <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/VedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/vedansh">Vedansh Sethi</a></h3>
+      </div>
   </div>
 
 
