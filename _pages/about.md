@@ -222,6 +222,10 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/parambrata">Parambrata Sinha</a></h3>
       </div>
       <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.jpeg" alt="Sarthak Bhatia" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/Sarthak">Sarthak Bhatia</a></h3>
+      </div>
+      <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/parth_brijpuria.jpeg" alt="Parth Brijpuria" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/parth_brijpuria">Parth Brijpuria</a></h3>
       </div>
@@ -229,6 +233,10 @@ layout: splash
   <img src="{{ site.baseurl }}/assets/images/members/y26/rishita_kandpal.jpg" alt="Rishita Kandpal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
   <h3><a href="{{ site.baseurl }}/members/kandpal">Rishita Kandpal</a></h3>
 </div>
+      <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/tanush_gupta.jpg" alt="Tanush Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/tanush_gupta">Tanush Gupta</a></h3>
+      </div>
       <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/vedanshSethi">Vedansh Sethi</a></h3>
@@ -239,6 +247,10 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/chayan_aggarwal">Chayan Aggarwal</a></h3>
       </div>
 
+      <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/kavish_grover.jpeg" alt="Kavish Grover" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/kavish">Kavish Grover</a></h3>
+      </div>
     </div>
 
   </div>
