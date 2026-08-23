@@ -6,7 +6,7 @@ layout: single
 
 # Gowri D V
 
-<img src="{{ site.baseurl }}/assets/images/members/y26/gowri.jpg" width="200" height="200" alt="Gowri D V">
+<img src="{{ site.baseurl }}/assets/images/members/y25/gowri.jpg" width="200" height="200" alt="Gowri D V">
 
 *Core Member, DSG IIT Roorkee*
 ---
