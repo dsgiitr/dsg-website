@@ -12,10 +12,11 @@ layout: single
 
 ## About Me
 
-I love gamedev. I am exploring deep learning.
+I am a second year ECE student. I am exploring machine unlearning and I have worked with variational auto encoders.
 
-## Projects
+## Contributions
 
+- A detailed summary of everything I have learnt in machine unlearning: https://github.com/mohidTheDev/research_noob/tree/main/Unlearning
 
 ## Contact
 
