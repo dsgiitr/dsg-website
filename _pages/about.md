@@ -238,6 +238,10 @@ layout: splash
         <h3>Member Name</h3>
       </a>
       -->
+      <a href="{{ site.baseurl }}/members/aaditya_bhatt/" class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/aaditya_bhatt.jpg" alt="Aaditya Bhatt" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3>Aaditya Bhatt</h3>
+      </a>
       <a href="{{ site.baseurl }}/members/harshit_agrawal/" class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpeg" alt="Harshit Agrawal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Harshit Agrawal</h3>
