@@ -250,6 +250,10 @@ layout: splash
         <img src="{{ site.baseurl }}/assets/images/members/y26/kavish_grover.jpeg" alt="Kavish Grover" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Kavish Grover</h3>
       </a>
+      <a href="{{ site.baseurl }}/members/mohid_hussain/" class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/mohid_hussain.jpg" alt="Mohid Hussain" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3>Mohid Hussain</h3>
+      </a>
       <a href="{{ site.baseurl }}/members/parambrata/" class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" alt="Parambrata Sinha" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Parambrata Sinha</h3>
