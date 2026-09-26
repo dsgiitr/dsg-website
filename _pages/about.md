@@ -274,6 +274,10 @@ layout: splash
         <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Vedansh Sethi</h3>
       </a>
+      <a href="{{ site.baseurl }}/members/Satvik/" class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/Satvik.jpg" alt="Satvik Gaba" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3>Satvik Gaba</h3>
+      </a>
     </div>
 
   </div>
