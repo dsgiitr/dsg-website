@@ -12,15 +12,20 @@ layout: single
 
 ## About Me
 
-I'm a first year student exploring ML and DL.
+I'm a second year CSE student exploring ML and DL, particularly Self-Supervised Learning as of now. I have worked and am also working on Computer Vision projects as well.
 
 ## Skills
-
+- Self-Supervised Learning
+- Computer Vision
 
 ## Projects
+- Ongoing: Looped Transformers for Super Resolution ([SRLoop](https://github.com/Raj-sigma/ELTRepro))
+- [FrameAgent](https://github.com/rishitak-cloud/FrameAgent): Made in BYOP '26.
 
+## Blogs
+- An overview of my learnings in SSL: [Link](https://github.com/dsgiitr/research_noob/tree/main/SSL_and_WorldModels/Rishita)
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/rishita-kandpal
-- GitHub: https://github.com/rishitak-cloud
+- [LinkedIn](https://linkedin.com/in/rishita-kandpal)
+- [GitHub](https://github.com/rishitak-cloud)
