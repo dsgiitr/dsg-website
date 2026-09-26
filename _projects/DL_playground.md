@@ -6,7 +6,7 @@ subtitle: "A Visual PyTorch Deep Learning Prototyping Tool"
 permalink: /projects/DL_playground/
 collaborator_name: "SDSLabs"
 collaborator_url: "https://sdslabs.co/"
-collaborator_logo: "https://www.sdslabs.co/favicon.ico"
+collaborator_logo: "/assets/images/sdslabs_logo.png"
 collaborator_logo_width: 50
 live_url: "https://dlplayground.dsgiitr.in/"
 github_url: "https://github.com/dsgiitr/DL-Playground"
