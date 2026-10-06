@@ -134,6 +134,40 @@ layout: splash
 
   <!-- TODO: Add 1 more ICLR paper/blogpost once authors share the link. -->
 
+  <!-- Paper 18 -->
+  <div class="research-card" data-conf="icml">
+    <img src="{{ site.baseurl }}/assets/images/research/Radial Suppression.png" alt="Paper 18">
+    <h3>Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization</h3>
+    <p>A geometric analysis showing that radial inflation of hidden representations drives the memorization-generalization delay (grokking), and that penalizing this inflation accelerates generalization on algorithmic tasks by up to 6x.</p>
+    <span class="conf-tag icml">ICML</span>
+    <div class="research-links">
+      <a href="https://arxiv.org/abs/2606.32000" target="_blank">Paper</a>
+    </div>
+  </div>
+
+
+  <!-- Paper 17 -->
+  <div class="research-card" data-conf="iclr">
+    <img src="{{ site.baseurl }}/assets/images/research/OmniPatch.png" alt="Paper 17">
+    <h3>OmniPatch: A Universal Adversarial Patch for ViT-CNN Cross-Architecture Transfer in Semantic Segmentation</h3>
+    <p>We introduce OmniPatch, a training framework for learning a universal adversarial patch that generalizes across images and both ViT and CNN architectures without requiring access to target model parameters.</p>
+    <span class="conf-tag iclr">ICLR</span>
+    <div class="research-links">
+      <a href="https://arxiv.org/abs/2603.20777" target="_blank">Paper</a>
+    </div>
+  </div>
+
+  <!-- Paper 16 -->
+  <div class="research-card" data-conf="cvpr">
+    <img src="{{ site.baseurl }}/assets/images/research/Guidance for Low-Level Perceptual.png" alt="Paper 16">
+    <h3>Guidance for Low-Level Perceptual Editing in Unconditional Diffusion Models</h3>
+    <p>A training-free inference framework for unconditional diffusion models that extracts degradation concept vectors to aesthetically enhance images without model retraining.</p>
+    <span class="conf-tag cvpr">CVPR</span>
+    <div class="research-links">
+      <a href="https://arxiv.org/abs/2605.31162" target="_blank">Paper</a>
+    </div>
+  </div>
+
   <!-- Paper 15 -->
   <div class="research-card" data-conf="iclr">
     <img src="{{ site.baseurl }}/assets/images/research/bdense.png" alt="Paper 15">
@@ -218,7 +252,7 @@ layout: splash
   <div class="research-card" data-conf="mlrc">
     <img src="{{ site.baseurl }}/assets/images/research/ReCUDA.png" alt="Paper 8">
     <h3>[Re] CUDA: Curriculum of Data Augmentation for Long‐tailed Recognition</h3>
-    <p>Using classwise degree of data augmentation to tackle class imbalance in long tailed dataset</p>
+    <p>A reproducibility study validating CUDA, a class-wise data augmentation technique that improves image recognition accuracy on highly imbalanced, long-tailed datasets without architectural changes.</p>
     <span class="conf-tag mlrc">MLRC</span>
     <div class="research-links">
       <a href="https://openreview.net/forum?id=Wm6d44I8St" target="_blank">Paper</a>
@@ -231,7 +265,7 @@ layout: splash
   <div class="research-card" data-conf="neurips">
     <img src="{{ site.baseurl }}/assets/images/research/RiemannSum.png" alt="Paper 7">
     <h3>Riemann Sum Optimization for Accurate Integrated Gradients Computation</h3>
-    <p>A mathematical framework to reduce computational complexity of Integrated Gradients</p>
+    <p>A mathematical framework to reduce computational complexity of Integrated Gradients.</p>
     <span class="conf-tag neurips">NeurIPS</span>
     <div class="research-links">
       <a href="https://arxiv.org/abs/2410.04118" target="_blank">Paper</a>
@@ -256,7 +290,7 @@ layout: splash
   <div class="research-card" data-conf="neurips">
     <img src="{{ site.baseurl }}/assets/images/research/randomisedsmoothing.png" alt="Paper 5">
     <h3>Rethinking Randomized Smoothing from the Perspective of Scalability</h3>
-    <p>A study on randomized smoothing, analysed from the perspective of scalability as a challenge to its continued application</p>
+    <p>A study on randomized smoothing, analysed from the perspective of scalability as a challenge to its continued application.</p>
     <!-- <span class="conf-tag unknown">Venue Unknown</span> -->
     <span class="conf-tag neurips">NeurIPS</span>
     <div class="research-links">
@@ -306,7 +340,7 @@ layout: splash
   <div class="research-card" data-conf="arxiv">
     <img src="{{ site.baseurl }}/assets/images/research/LanguageGuidance.png" alt="Paper 1">
     <h3>Impact of Language Guidance: A Reproducibility Study</h3>
-    <p>A reproducability study of Language guidance on self-supervised learning frameworks</p>
+    <p>A reproducability study of Language guidance on self-supervised learning frameworks.</p>
     <span class="conf-tag arxiv">ArXiv</span>
     <div class="research-links">
       <a href="https://openreview.net/forum?id=qTDDGHvXiU&referrer=%5Bthe%20profile%20of%20Cherish%20Puniani%5D(%2Fprofile%3Fid%3D~Cherish_Puniani1)" target="_blank">Paper</a>
