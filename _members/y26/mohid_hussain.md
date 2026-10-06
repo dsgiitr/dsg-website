@@ -6,7 +6,7 @@ layout: single
 
 # Mohid Hussain
 
-<img src="{{ site.baseurl }}/assets/images/members/y26/mohid_hussain.webp" width="200" height="200" alt="Mohid Hussain">
+<img src="{{ site.baseurl }}/assets/images/members/y26/mohid_hussain.jpg" width="200" height="200" alt="Mohid Hussain">
 
 *Core Member, DSG IIT Roorkee*
 

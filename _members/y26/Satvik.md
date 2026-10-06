@@ -4,9 +4,9 @@ permalink: /members/Satvik/
 layout: single
 ---
 
-# Parambrata Sinha
+# Satvik Gaba
 
-<img src="{{ site.baseurl }}/assets/images/members/y26/Satvik.png" width="200" height="200" alt="Satvik">
+<img src="{{ site.baseurl }}/assets/images/members/y26/Satvik.jpg" width="200" height="200" alt="Satvik">
 
 _Core Member, DSG IIT Roorkee_
 

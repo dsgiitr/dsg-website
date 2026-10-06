@@ -1,5 +1,5 @@
 ---
-title: "Vedansh Sethi"
+title: ""
 permalink: /members/vedansh/
 layout: single
 ---

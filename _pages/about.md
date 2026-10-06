@@ -175,7 +175,7 @@ layout: splash
 
   <!-- 3rd Year (Y25) -->
   <div class="year-section">
-    <h2 class="year-header">3nd Year (Y25)</h2>
+    <h2 class="year-header">3rd Year (Y25)</h2>
     <div class="member-grid">
       <a href="{{ site.baseurl }}/members/aarush/" class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y25/aarush.jpg" alt="Aarush Aggarwal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
