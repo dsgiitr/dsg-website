@@ -152,7 +152,40 @@ permalink: /events/
 <!-- Exclusive DSG Events Section -->
 <h2 style="margin-top: 2rem; color: #007acc;">Exclusive DSG Events</h2>
 <div class="specific-event-grid">
+
+
+  <!-- Event 12: workshop27 1 -->
+  <div class="event-card">
+    <img src="{{ site.baseurl }}/assets/images/events/workshop_1.jpeg" alt="workshop1">
+    <h3>2026 Workshop: World Beyond Pixels</h3>
+    <p>We went beyond conventional 2D CV and explored how machines can recover and understand the 3D structure of the world. And, we explore how we can build and train World Models for the AI of the Physical World . We have explored things like JEPA , Model-Based RL, MPC etc.</p>
+    <div class="event-links">
+      <a href="https://www.instagram.com/p/DcMlHYETvtT/?evlk=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==" target="_blank">Details</a>
+
+  </div>
+  </div>
   
+  <!-- Event 13: workshop27 1 -->
+  <div class="event-card">
+    <img src="{{ site.baseurl }}/assets/images/events/workshop_2.jpeg" alt="workshop1">
+    <h3>2026 Workshop: Reinforcement Learning</h3>
+    <p>We covered states, actions, rewards, and policies, which form the basis of Reinforcement Learning. We looked at how Monte Carlo estimation, actor-critic methods, and Q-learning help agents learn which decisions pay off over time. We also discussed reinforcement learning from human feedback (RLHF).</p>
+    <div class="event-links">
+      <a href="https://www.instagram.com/p/DdjWhz-JWLk/?lqvp=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==" target="_blank">Details</a>
+
+  </div>
+  </div>
+
+  <!-- Event 13: workshop27 1 -->
+  <div class="event-card">
+    <img src="{{ site.baseurl }}/assets/images/events/workshop_3.jpeg" alt="workshop1">
+    <h3>2026 Workshop: Demistifying LLMs & Agentic Workflows</h3>
+    <p>Breaking down LLM internals (tokenization, attention, sampling, hallucinations) alongside agentic execution loops (ReAct, tool calling, Agentic workflows). Students then applied these concepts in live Bug-fixing, directing ChatGPT Codex to diagnose and patch planted architectural bugs in a custom inference repo..</p>
+    <div class="event-links">
+      <a href="https://www.instagram.com/p/De_PfNUHfH2/?jplx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==" target="_blank">Details</a>
+
+  </div>
+  </div>
   <!-- Event 3: BYOP (Bring Your Own Project) -->
   <div class="event-card">
     <img src="{{ site.baseurl }}/assets/images/events/BYOP_26.png" alt="BYOP">
